@@ -2,14 +2,9 @@
 # 3D E-Commerce Website
 
 A fully interactive 3D e-commerce platform built using TypeScript and React Three Fiber (r3f). This project allows users to explore a 3D environment featuring products, view details, and simulate a shopping experience.
+<br/>
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+<img width="1920" alt="Image" src="https://github.com/user-attachments/assets/eeeaeaa7-85e7-42dd-8097-9cd91bb93b15" />
 
 ## Installation
 
@@ -43,15 +38,8 @@ This will start the development server and open the website in your default brow
 
 In development mode, the website will automatically reload as you make changes to the code. You can modify the 3D scenes, product views, and other features in real time.
 
-## Features
 
-- **3D Product Viewer**: View products in 3D space with rotation and zoom features.
-- **Interactive UI**: Users can click on products to view more details, add to cart, or make a purchase.
-- **Responsive Design**: Optimized for both desktop and mobile browsers.
-- **Product Filtering**: Sort products by category, price, and ratings.
-- **Animations**: Smooth transitions between scenes and product interactions.
-
-## Technologies Used
+## Tech Stacks
 
 - **TypeScript**: Strongly typed JavaScript for better scalability and maintainability.
 - **React Three Fiber (r3f)**: A React renderer for Three.js to build 3D experiences.
@@ -70,7 +58,3 @@ Contributions are welcome! If you'd like to improve the project, please follow t
 4. Commit your changes (`git commit -m 'Add new feature'`)
 5. Push to the branch (`git push origin feature/your-feature`)
 6. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
