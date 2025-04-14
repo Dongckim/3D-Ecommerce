@@ -6,6 +6,8 @@ A fully interactive 3D e-commerce platform built using TypeScript and React Thre
 
 <img width="1920" alt="Image" src="https://github.com/user-attachments/assets/eeeaeaa7-85e7-42dd-8097-9cd91bb93b15" />
 
+[Preview Video](https://youtube.com/shorts/Og-AV0q5wlA)
+
 ## Installation
 
 To get started with this project, clone the repository and install the dependencies.
